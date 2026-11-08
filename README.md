@@ -15,11 +15,9 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Roadmap](#-roadmap)
-- [What I'm Learning](#-what-im-learning)
 - [Author](#-author)
 
 ---
